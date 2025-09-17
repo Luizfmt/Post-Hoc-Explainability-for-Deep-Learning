@@ -1,4 +1,4 @@
-# MedXAI: Post-Hoc Explainability of CNNs on Medical Imaging
+# Post-Hoc Explainability for Deep Learning
 
 This project implements three post-hoc explainability methods — **DeconvNet**, **Grad-CAM**, and **Occlusion Sensitivity** — to interpret Convolutional Neural Networks (CNNs) trained on medical imaging datasets.  
 It adapts **AlexNet** to handle **128×128 MedMNIST datasets** (PathMNIST, BloodMNIST, DermaMNIST), providing clear visual insights into how the model makes decisions.  
