@@ -6,13 +6,13 @@ It adapts **AlexNet** to handle **128×128 MedMNIST datasets** (PathMNIST, Blood
 
 ---
 
-## 📝 Project Overview
+## Project Overview
 Deep learning models often achieve high performance in medical imaging but lack transparency. In this project, we address this challenge by applying state-of-the-art post-hoc explainability techniques to CNNs.  
 We adapted AlexNet to the MedMNIST datasets and implemented visualization tools to understand which regions and features drive classification decisions.  
 
 ---
 
-## 🔍 Key Features
+## Key Features
 - **AlexNet adaptation** for 128×128 medical images.  
 - **DeconvNet**: reconstructs activations back into image space.  
 - **Grad-CAM**: generates gradient-based heatmaps highlighting relevant regions.  
@@ -21,7 +21,7 @@ We adapted AlexNet to the MedMNIST datasets and implemented visualization tools 
 
 ---
 
-## 📊 Results
+## Results
 - **PathMNIST:** ~91% test accuracy  
 - **BloodMNIST:** ~97% test accuracy  
 - **DermaMNIST:** ~77% test accuracy  
@@ -29,7 +29,7 @@ We adapted AlexNet to the MedMNIST datasets and implemented visualization tools 
 
 ---
 
-## 👩‍💻 Contributors
+## Contributors
 This project was carried out by a team of students at Télécom Paris:  
 - MOREIRA TEIXEIRA Luiz Fernando 
 - SANGINETO JUCÁ Marina 
